@@ -1,0 +1,27 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sonarGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4e9bcd;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f3702a;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background Circle -->
+  <circle cx="32" cy="32" r="30" fill="url(#sonarGrad)"/>
+  
+  <!-- SonarQube Logo -->
+  <circle cx="32" cy="32" r="20" fill="#ffffff" opacity="0.9"/>
+  
+  <!-- Sonar Waves -->
+  <path d="M 32 20 A 12 12 0 0 1 44 32" stroke="#4e9bcd" stroke-width="3" fill="none"/>
+  <path d="M 32 24 A 8 8 0 0 1 40 32" stroke="#4e9bcd" stroke-width="3" fill="none"/>
+  <path d="M 32 28 A 4 4 0 0 1 36 32" stroke="#4e9bcd" stroke-width="3" fill="none"/>
+  
+  <!-- Center Dot -->
+  <circle cx="32" cy="32" r="2" fill="#f3702a"/>
+  
+  <!-- Quality Gate -->
+  <rect x="20" y="40" width="24" height="8" fill="#ffffff" opacity="0.8" rx="2"/>
+  <rect x="22" y="42" width="6" height="4" fill="#10b981" rx="1"/>
+  <text x="30" y="46" fill="#4e9bcd" font-family="Arial" font-size="6" font-weight="bold">PASSED</text>
+</svg>

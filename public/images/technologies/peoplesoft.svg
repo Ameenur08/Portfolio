@@ -1,0 +1,28 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="peoplesoftGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ff6600;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#cc5200;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background Circle -->
+  <circle cx="32" cy="32" r="30" fill="url(#peoplesoftGrad)"/>
+  
+  <!-- PeopleSoft Logo -->
+  <rect x="16" y="16" width="32" height="32" fill="#ffffff" rx="4"/>
+  
+  <!-- People Icons -->
+  <circle cx="24" cy="26" r="3" fill="#ff6600"/>
+  <rect x="20" y="30" width="8" height="8" fill="#ff6600" rx="2"/>
+  
+  <circle cx="40" cy="26" r="3" fill="#ff6600"/>
+  <rect x="36" y="30" width="8" height="8" fill="#ff6600" rx="2"/>
+  
+  <!-- Connection -->
+  <rect x="28" y="32" width="8" height="2" fill="#ff6600"/>
+  
+  <!-- Software Elements -->
+  <rect x="20" y="42" width="24" height="2" fill="#ff6600" opacity="0.7"/>
+  <rect x="20" y="45" width="16" height="1" fill="#ff6600" opacity="0.5"/>
+</svg>

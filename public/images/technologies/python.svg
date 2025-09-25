@@ -1,0 +1,22 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="pythonGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3776ab;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ffd43b;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background Circle -->
+  <circle cx="32" cy="32" r="30" fill="#ffffff"/>
+  
+  <!-- Python Logo -->
+  <!-- Top part (blue) -->
+  <path d="M 20 16 Q 16 16 16 20 L 16 28 Q 16 32 20 32 L 32 32 L 32 28 L 20 28 Q 18 28 18 26 L 18 20 Q 18 18 20 18 L 32 18 Q 34 18 34 20 L 34 24 L 38 24 L 38 20 Q 38 16 34 16 Z" fill="#3776ab"/>
+  
+  <!-- Bottom part (yellow) -->
+  <path d="M 44 48 Q 48 48 48 44 L 48 36 Q 48 32 44 32 L 32 32 L 32 36 L 44 36 Q 46 36 46 38 L 46 44 Q 46 46 44 46 L 32 46 Q 30 46 30 44 L 30 40 L 26 40 L 26 44 Q 26 48 30 48 Z" fill="#ffd43b"/>
+  
+  <!-- Eyes -->
+  <circle cx="22" cy="22" r="2" fill="#ffffff"/>
+  <circle cx="42" cy="42" r="2" fill="#3776ab"/>
+</svg>

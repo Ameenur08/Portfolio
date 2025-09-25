@@ -1,0 +1,38 @@
+{
+  "name": "ameenur-portfolio",
+  "private": true,
+  "version": "2.0.0",
+  "type": "module",
+  "description": "Professional portfolio website for Ameenur Rahman Khan - Azure DevOps Engineer & Full-Stack Developer",
+  "author": "Ameenur Rahman Khan",
+  "keywords": [
+    "portfolio",
+    "react",
+    "azure-devops",
+    "full-stack",
+    "developer"
+  ],
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "lint:fix": "eslint . --ext js,jsx --fix",
+    "preview": "vite preview --host",
+    "clean": "rm -rf dist"
+  },
+  "dependencies": {
+    "framer-motion": "^12.0.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.15",
+    "@types/react-dom": "^18.2.7",
+    "@vitejs/plugin-react": "^4.0.3",
+    "eslint": "^8.45.0",
+    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.3",
+    "vite": "^4.4.5"
+  }
+}
