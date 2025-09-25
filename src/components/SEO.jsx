@@ -61,7 +61,7 @@ const SEO = ({
       "url": url,
       "sameAs": [
         "https://linkedin.com/in/ameenur-rahman-khan",
-        "https://github.com/ameenur-rahman-khan"
+        "https://github.com/Ameenur0"
       ],
       "knowsAbout": [
         "DevOps",

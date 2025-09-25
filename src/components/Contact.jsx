@@ -49,8 +49,8 @@ const Contact = () => {
     {
       icon: '🐙',
       title: 'GitHub',
-      value: 'github.com/ameenur-rahman-khan',
-      link: 'https://github.com/ameenur-rahman-khan',
+      value: 'github.com/Ameenur0',
+      link: 'https://github.com/Ameenur0',
       description: 'Check out my code'
     }
   ];

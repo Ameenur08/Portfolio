@@ -36,7 +36,7 @@ A modern, responsive portfolio website showcasing my experience as an Azure DevO
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/portfolio.git
+git clone https://github.com/Ameenur0/Portfolio.git
 cd portfolio
 ```
 
@@ -112,7 +112,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 - **Email**: ameenurrahman007@gmail.com
 - **LinkedIn**: [linkedin.com/in/ameenur-rahman-khan](https://linkedin.com/in/ameenur-rahman-khan)
-- **GitHub**: [github.com/ameenur-rahman-khan](https://github.com/ameenur-rahman-khan)
+- **GitHub**: [github.com/Ameenur0](https://github.com/Ameenur0)
 
 ---
 
